@@ -93,7 +93,11 @@ cd mood-weather
 ## 📁 Project Structure
 
 > *(To be updated each week as files are added.)*
-
+```
+src/
+public/
+docs/
+README.md
 ---
 
 ## 📚 Learning Goals
@@ -110,4 +114,5 @@ By the end of this project, you will have hands-on experience with:
 ---
 
 *Last updated: Week 01*
+
 
