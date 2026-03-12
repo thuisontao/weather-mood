@@ -72,11 +72,8 @@ The project is structured into four weekly milestones, each introducing a new la
 
 | Layer | Technology |
 |---|---|
-| Markup | HTML5 |
-| Styling | CSS3 |
-| Interactivity | Vanilla JavaScript |
+| Front-end | HTML, CSS, JavaScript, React |
 | Backend | Node.js + Express |
-| Weather Data | OpenWeatherMap API (or similar) |
 | Version Control | Git + GitHub |
 
 ---
@@ -113,3 +110,4 @@ By the end of this project, you will have hands-on experience with:
 ---
 
 *Last updated: Week 01*
+
